@@ -12,7 +12,7 @@ Every repo is cloned into `~/projects/<name>` on every computer that needs it, s
 
 | Folder | Git | GitHub | Notes |
 |---|---|---|---|
-| `journal` | yes | `Kyzereye/journal` | Includes the Moving Forward book |
+| `journal` | yes | `Kyzereye/journal` | Moving Forward book moved out to kyzereye-books (2026-10-01) |
 | `sixties-strong` | yes (new) | `Kyzereye/sixties-strong` | |
 | `kyzereye-books` | yes (new) | `Kyzereye/kyzereye-books` | All books, one folder each. kmf-books merged in, Moving Forward moved in from journal (2026-10-01). |
 | `puzzle-books` | yes (new) | `Kyzereye/puzzle-books` | Word-search puzzle book generator. Moved from `~/Documents/books` 2026-10-01. |
