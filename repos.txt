@@ -1,0 +1,13 @@
+# Every project repo. Format: local-folder-under-~/projects | GitHub SSH URL
+# scripts/sync-status.sh reads this file. Lines starting with # are ignored.
+myLife | git@github.com:Kyzereye/myLife.git
+journal | git@github.com:Kyzereye/journal.git
+fitness | git@github.com:Kyzereye/fitness.git
+books | git@github.com:Kyzereye/books.git
+keep-moving-forward/books | git@github.com:Kyzereye/kmf-books.git
+keep-moving-forward/motivational-inspirations | git@github.com:Kyzereye/motivational-inspirations.git
+pokersheets | git@github.com:Kyzereye/pokersheets.git
+pokerleaguesHQ | git@github.com:Kyzereye/pokerleaguesHQ.git
+# To add after inventory on the other computers:
+# im-fb-agent | git@github.com:Kyzereye/<name>.git
+# code-works repos | ...
