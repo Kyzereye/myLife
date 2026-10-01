@@ -8,7 +8,7 @@ Run the weekly review for the current ISO week.
 
 - Read `schedule/weeks/<this ISO week>.md` and count the checked and unchecked items for Code Works, each finish slot, fitness, and hobbies.
 - For each repo in `repos.txt` that exists locally, list this week's commits (`git -C ~/projects/<dir> log --since=<Monday> --oneline`).
-- If `../sixties-strong` exists, read this week's `logs/workouts.csv` and `logs/activity.csv` rows. The fitness repo has its own weekly review, so don't repeat it. Just note how many gym sessions, the ride, and pickleball happened.
+- If `sixties-strong` exists, read this week's `logs/workouts.csv` and `logs/activity.csv` rows. The fitness repo has its own weekly review, so don't repeat it. Just note how many gym sessions, the ride, and pickleball happened.
 
 ## 2. Finish slots
 

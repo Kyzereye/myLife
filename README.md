@@ -30,14 +30,20 @@ This repo is the hub for everything I'm working on. It holds the plan, not the w
 | [schedule/fixed-events.md](schedule/fixed-events.md) | Dealing nights, Avalanche schedule, one-off events |
 | [schedule/weeks/](schedule/weeks/) | One file per week with each day's plan and checkboxes |
 | `scripts/sync-status.sh` | Shows which repos have uncommitted, unpushed, or unpulled work |
+| `scripts/clone-all.sh` | Clones any repo from `repos.txt` that's missing on this computer |
+
+## Repos inside this folder
+
+`journal/`, `kyzereye-books/`, and `sixties-strong/` live inside this folder, but each is **its own GitHub repo**. myLife's `.gitignore` skips them, so commit and push each one from inside its own folder. In VS Code, open `~/projects/myLife` and the Source Control panel lists each repo separately.
+
+Business and code repos (`motivational-inspirations`, `puzzle-books`, poker apps, Code Works) live in `~/projects/`.
 
 ## Setting up on another computer
 
 ```sh
-cd ~/projects
+mkdir -p ~/projects && cd ~/projects
 git clone git@github.com:Kyzereye/myLife.git
 cd myLife
+./scripts/clone-all.sh
 ./scripts/sync-status.sh
 ```
-
-The sync script lists any repo from `repos.txt` that isn't cloned yet on that computer.

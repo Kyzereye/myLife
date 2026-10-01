@@ -8,7 +8,7 @@
 |---|---|---|
 | Kyzereye Code Works | Morning block. Find clients and do client work. **Top priority.** | [projects/code-works.md](projects/code-works.md) |
 | Fitness | Whatever the fitness plan says for today | [projects/fitness.md](projects/fitness.md) |
-| Mental health | Read statements twice a day ([ongoing.md](../journal/moving-forward/ongoing.md)). Journal in the evening when something matters. | `journal` repo |
+| Mental health | Read statements twice a day ([ongoing.md](journal/moving-forward/ongoing.md)). Journal in the evening when something matters. | `journal` repo |
 
 ## Finish slots (max 2)
 

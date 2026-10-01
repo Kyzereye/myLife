@@ -1,7 +1,7 @@
 # Law of Attraction and the Bible
 
 **Type:** Next up (waits for a free finish slot)
-**Repo:** `kyzereye-books` (`~/projects/kyzereye-books/law-of-attraction-bible/`)
+**Repo:** `kyzereye-books` (`~/projects/myLife/kyzereye-books/law-of-attraction-bible/`)
 
 ## Current status (2026-10-01)
 

@@ -1,7 +1,7 @@
 # Moving Forward: Stop Looking in the Rear View Mirror
 
 **Type:** Finish slot B (afternoon, about 1 hour). Moves to the mid-day slot when the IM-FB agent is done.
-**Repo:** `kyzereye-books` (`~/projects/kyzereye-books/moving-forward/`). Moved from `journal/moving-forward/book/` on 2026-10-01.
+**Repo:** `kyzereye-books` (`~/projects/myLife/kyzereye-books/moving-forward/`). Moved from `journal/moving-forward/book/` on 2026-10-01.
 **Plan:** Build with Book Bolt and publish on KDP (from `outline.md`).
 
 ## Definition of done

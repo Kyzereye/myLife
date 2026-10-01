@@ -1,6 +1,6 @@
 # Computers
 
-Every repo is cloned into `~/projects/<name>` on every computer that needs it, so relative links between repos (like `../sixties-strong`) work everywhere.
+Every repo is cloned into the same place on every computer, as listed in `repos.txt`. Personal-life repos (`journal`, `kyzereye-books`, `sixties-strong`) live **inside** `~/projects/myLife/`, but each is still its own GitHub repo, and myLife's `.gitignore` skips them. Business and code repos live in `~/projects/`. Run `scripts/clone-all.sh` on a new computer to set this up.
 
 | Computer | Role | Status |
 |---|---|---|
@@ -12,9 +12,9 @@ Every repo is cloned into `~/projects/<name>` on every computer that needs it, s
 
 | Folder | Git | GitHub | Notes |
 |---|---|---|---|
-| `journal` | yes | `Kyzereye/journal` | Moving Forward book moved out to kyzereye-books (2026-10-01) |
-| `sixties-strong` | yes (new) | `Kyzereye/sixties-strong` | |
-| `kyzereye-books` | yes (new) | `Kyzereye/kyzereye-books` | All books, one folder each. kmf-books merged in, Moving Forward moved in from journal (2026-10-01). |
+| `myLife/journal` | yes | `Kyzereye/journal` | Moving Forward book moved out to kyzereye-books (2026-10-01) |
+| `myLife/sixties-strong` | yes (new) | `Kyzereye/sixties-strong` | |
+| `myLife/kyzereye-books` | yes (new) | `Kyzereye/kyzereye-books` | All books, one folder each. kmf-books merged in, Moving Forward moved in from journal (2026-10-01). |
 | `puzzle-books` | yes (new) | `Kyzereye/puzzle-books` | Word-search puzzle book generator. Moved from `~/Documents/books` 2026-10-01. |
 | `myLife` | yes (new) | `Kyzereye/myLife` | This hub |
 | `keep-moving-forward/books` | yes | `Kyzereye/kmf-books` | **Retired.** Merged into `kyzereye-books/kmf`. Delete the folder and archive the GitHub repo. |

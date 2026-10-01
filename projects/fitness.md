@@ -1,7 +1,7 @@
 # Fitness
 
 **Type:** Main activity (daily)
-**Repo:** `sixties-strong` (`~/projects/sixties-strong`)
+**Repo:** `sixties-strong` (`~/projects/myLife/sixties-strong`)
 
 The plan and logs live in the fitness repo. This file only points there. Never copy the plan into myLife.
 
@@ -20,4 +20,4 @@ Leaner and more muscular, lifting every 3 days, and better cholesterol numbers.
 - **Mountain bike day:** weekday only, the day before a gym day. Takes a few hours and can eat into the day.
 - **Pickleball:** 1–2 times a week, about 2 hours.
 - **Yoga:** 2 short sessions a week. These fit well on Avs game nights.
-- **Logging:** open Claude in `~/projects/sixties-strong` and say what you did.
+- **Logging:** open Claude in `~/projects/myLife/sixties-strong` and say what you did.
