@@ -14,15 +14,16 @@ Every repo is cloned into `~/projects/<name>` on every computer that needs it, s
 |---|---|---|---|
 | `journal` | yes | `Kyzereye/journal` | Includes the Moving Forward book |
 | `sixties-strong` | yes (new) | `Kyzereye/sixties-strong` | |
-| `kyzereye-books` | yes (new) | `Kyzereye/kyzereye-books` | LoA & Bible, statements-of-intent |
+| `kyzereye-books` | yes (new) | `Kyzereye/kyzereye-books` | All books, one folder each. kmf-books merged in, Moving Forward moved in from journal (2026-10-01). |
+| `puzzle-books` | yes (new) | `Kyzereye/puzzle-books` | Word-search puzzle book generator. Moved from `~/Documents/books` 2026-10-01. |
 | `myLife` | yes (new) | `Kyzereye/myLife` | This hub |
-| `keep-moving-forward/books` | yes | `Kyzereye/kmf-books` | |
+| `keep-moving-forward/books` | yes | `Kyzereye/kmf-books` | **Retired.** Merged into `kyzereye-books/kmf`. Delete the folder and archive the GitHub repo. |
 | `motivational-inspirations` | yes | `Kyzereye/motivational-inspirations` | IM-FB agent (finish slot A). Active work is on another computer. |
 | `keep-moving-forward/motivational-inspirations` | yes | same as above | **Older duplicate clone. Delete.** Checked 2026-10-01: nothing uncommitted, unpushed, or stashed. |
 | `pokersheets` | yes | `Kyzereye/pokersheets` | |
 | `pokerleaguesHQ` | yes | `Kyzereye/pokerleaguesHQ` | |
 | `poker_signup/frontend` | yes | none yet | 29 uncommitted files |
-| `100waysmotivate` | no | — | Overlaps `kmf-books/100waystaglines`. Compare before deciding. |
+| `100waysmotivate` | no | — | **Retired.** Older (July 1) snapshot of kmf-books, nothing unique. Delete. |
 | `digital-products` | no | — | Parked |
 | `KyzereyeProductions` | no | — | Parked |
 | `keep-moving-forward/IM-FB-post` | no | — | **Unused 2023 stub. Delete.** (`~/projects/IM-FB-post` was the same stub and was deleted 2026-10-01.) |

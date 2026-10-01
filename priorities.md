@@ -23,10 +23,11 @@
 
 ## Parking lot (no work until promoted)
 
-- **Drawing Dead and Getting There:** a novel in the style of *The Color of Money* with a poker backstory.
-- **Hero's journey with law of attraction:** for teens and early twenties. The hero learns the principles along the way and ends supercharged for the life ahead.
-- **Keep Moving Forward / 100 Ways to Motivate books:** `100waysmotivate`, `keep-moving-forward/books`
+- **Drawing Dead and Getting There:** a novel in the style of *The Color of Money* with a poker backstory. `kyzereye-books/drawing-dead`
+- **Hero's journey with law of attraction:** for teens and early twenties. The hero learns the principles along the way and ends supercharged for the life ahead. `kyzereye-books/heros-journey`
+- **Keep Moving Forward / 100 Ways to Motivate books:** `kyzereye-books/kmf`
 - **Statements of Intent book:** `kyzereye-books/statements-of-intent`
+- **Puzzle books:** word-search book generator. `puzzle-books`
 - **Poker apps:** `pokersheets`, `pokerleaguesHQ`, `poker_signup`
 - **Digital products / Kyzereye Productions:** `digital-products`, `KyzereyeProductions`
 

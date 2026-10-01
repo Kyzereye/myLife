@@ -4,7 +4,7 @@ myLife | git@github.com:Kyzereye/myLife.git
 journal | git@github.com:Kyzereye/journal.git
 sixties-strong | git@github.com:Kyzereye/sixties-strong.git
 kyzereye-books | git@github.com:Kyzereye/kyzereye-books.git
-keep-moving-forward/books | git@github.com:Kyzereye/kmf-books.git
+puzzle-books | git@github.com:Kyzereye/puzzle-books.git
 motivational-inspirations | git@github.com:Kyzereye/motivational-inspirations.git
 pokersheets | git@github.com:Kyzereye/pokersheets.git
 pokerleaguesHQ | git@github.com:Kyzereye/pokerleaguesHQ.git
