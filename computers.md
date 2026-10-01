@@ -1,11 +1,11 @@
 # Computers
 
-Every repo is cloned into the same place on every computer, as listed in `repos.txt`. Personal-life repos (`journal`, `kyzereye-books`, `sixties-strong`) live **inside** `~/projects/myLife/`, but each is still its own GitHub repo, and myLife's `.gitignore` skips them. Business and code repos live in `~/projects/`. Run `scripts/clone-all.sh` on a new computer to set this up.
+Every repo is cloned into the same place on every computer, as listed in `repos.txt`. Personal-life repos (`journal`, `sixties-strong`) live **inside** `~/projects/myLife/`, but each is still its own GitHub repo, and myLife's `.gitignore` skips them. Business repos live inside `~/projects/myBusiness/` (KCW and KyzereyePublishing), with the same nested-repo pattern. Other repos live in `~/projects/`. Run `scripts/clone-all.sh` on a new computer to set this up.
 
 | Computer | Role | Status |
 |---|---|---|
 | **Work** | Kyzereye Code Works client projects | Not inventoried yet |
-| **Main** | Primary personal computer. The IM-FB agent (`motivational-inspirations`) is built and run here, currently in a folder named `IM-FB-post` that needs renaming. | Not inventoried yet |
+| **Main** | Primary personal computer. The inspire agent (repo `Kyzereye/motivational-inspirations`, rename to `inspire` pending) is built and run here, currently in a folder named `IM-FB-post` that needs renaming to `inspire`. | Not inventoried yet |
 | **Backup** | This inventory was done here on 2026-10-01 | Inventoried, see below |
 
 ## Backup computer (inventoried 2026-10-01)
@@ -14,20 +14,21 @@ Every repo is cloned into the same place on every computer, as listed in `repos.
 |---|---|---|---|
 | `myLife/journal` | yes | `Kyzereye/journal` | Moving Forward book moved out to kyzereye-books (2026-10-01) |
 | `myLife/sixties-strong` | yes (new) | `Kyzereye/sixties-strong` | |
-| `myLife/kyzereye-books` | yes (new) | `Kyzereye/kyzereye-books` | All books, one folder each. kmf-books merged in, Moving Forward moved in from journal (2026-10-01). |
-| `puzzle-books` | yes (new) | `Kyzereye/puzzle-books` | Word-search puzzle book generator. Moved from `~/Documents/books` 2026-10-01. |
+| `myBusiness/KyzereyePublishing/books` | yes (new) | `Kyzereye/kyzereye-books` | All books, one folder each. kmf-books merged in, Moving Forward moved in from journal (2026-10-01). Moved from `myLife/kyzereye-books` to myBusiness 2026-10-01. |
+| `myBusiness/KyzereyePublishing/puzzle-books` | yes (new) | `Kyzereye/puzzle-books` | Word-search puzzle book generator. Moved from `~/Documents/books` 2026-10-01. |
 | `myLife` | yes (new) | `Kyzereye/myLife` | This hub |
-| `keep-moving-forward/books` | yes | `Kyzereye/kmf-books` | **Retired.** Merged into `kyzereye-books/kmf`. Delete the folder and archive the GitHub repo. |
-| `motivational-inspirations` | yes | `Kyzereye/motivational-inspirations` | IM-FB agent (finish slot A). Active work is on another computer. |
+| `myBusiness` | yes (new) | `Kyzereye/myBusiness` (not created yet) | KyzerEye LLC: KCW + Kyzereye Publishing. Created 2026-10-01. |
+| `keep-moving-forward/books` | yes | `Kyzereye/kmf-books` | **Retired.** Merged into `books/kmf`. Delete the folder and archive the GitHub repo. |
+| `motivational-inspirations` | yes | `Kyzereye/motivational-inspirations` | inspire agent (finish slot A). Repo + folder rename to `inspire` is pending. Active work is on another computer. |
 | `keep-moving-forward/motivational-inspirations` | yes | same as above | **Older duplicate clone. Delete.** Checked 2026-10-01: nothing uncommitted, unpushed, or stashed. |
-| `pokersheets` | yes | `Kyzereye/pokersheets` | |
-| `pokerleaguesHQ` | yes | `Kyzereye/pokerleaguesHQ` | |
-| `poker_signup/frontend` | yes | none yet | 29 uncommitted files |
+| `myBusiness/KCW/pokersheets` | yes | `Kyzereye/pokersheets` | |
+| `myBusiness/KCW/pokerleaguesHQ` | yes | `Kyzereye/pokerleaguesHQ` | |
+| `myBusiness/KCW/poker_signup/frontend` | yes | none yet | 29 uncommitted files |
 | `100waysmotivate` | no | — | **Retired.** Older (July 1) snapshot of kmf-books, nothing unique. Delete. |
 | `digital-products` | no | — | Parked |
-| `KyzereyeProductions` | no | — | Parked |
+| `archive/KyzereyeProductions` | no | — | Archived 2026-10-01. Prototype of the inspire agent. |
 | `keep-moving-forward/IM-FB-post` | no | — | **Unused 2023 stub. Delete.** (`~/projects/IM-FB-post` was the same stub and was deleted 2026-10-01.) |
-| `sentences`, `youtubeDownload`, `stocks`, `positivityGraditude.py` | no | — | Old or small. Decide later. |
+| `youtubeDownload`, `stocks`, `positivityGraditude.py` | no | — | Old or small. Decide later. |
 
 ### Media (not for git)
 

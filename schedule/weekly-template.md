@@ -10,7 +10,7 @@ Every day starts as the **base day**. Then each **modifier** that's true for tha
 | Brief | ~8:30 | `/today` (10 minutes) |
 | Morning | ~9:00–12:00 | **Code Works**: find clients, outreach, client work |
 | Lunch | ~12:00–1:00 | Lunch, short walk |
-| Mid-day | ~1:00–3:00 | **Finish slot A**: IM-FB agent (best hours, protected) |
+| Mid-day | ~1:00–3:00 | **Finish slot A**: inspire agent (best hours, protected) |
 | Afternoon | ~3:00–4:00 | **Finish slot B**: Moving Forward book |
 | Late afternoon | ~4:00–6:00 | Fitness per the plan if not done earlier, or Code Works admin |
 | Evening | after dinner | Music (30 min), journal if something matters, statements (2nd read) |
@@ -41,4 +41,4 @@ Every day starts as the **base day**. Then each **modifier** that's true for tha
 
 ## When a finish slot opens
 
-When the IM-FB agent is done, the Moving Forward book moves to the mid-day slot and Law of Attraction & the Bible takes the afternoon slot.
+When the inspire agent is done, the Moving Forward book moves to the mid-day slot and Law of Attraction & the Bible takes the afternoon slot.

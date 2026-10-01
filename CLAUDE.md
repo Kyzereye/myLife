@@ -1,6 +1,6 @@
 # myLife: instructions for Claude
 
-This repo is John's planning hub. It decides what he works on each day. The actual project work lives in other repos listed in `repos.txt`.
+This repo is John's planning hub. It decides what he works on each day. The actual project work lives in other repos listed in `repos.txt`. Business work (KyzerEye LLC: KCW code projects and Kyzereye Publishing books) lives in `~/projects/myBusiness`. Plan it here; keep its content there.
 
 ## Before planning anything
 
@@ -9,7 +9,7 @@ Read `priorities.md`, `schedule/weekly-template.md`, `schedule/fixed-events.md`,
 ## Rules to enforce
 
 - **Never more than two finish slots.** If John asks to start a new project, point out which slot it would replace and suggest adding it to `ideas.md` or the Parking lot instead. He makes the call.
-- Code Works is the top priority and a daily main activity. Finish slot A (IM-FB agent) outranks finish slot B (Moving Forward book).
+- Code Works is the top priority and a daily main activity. Finish slot A (inspire agent) outranks finish slot B (Moving Forward book).
 - Hobbies and friends are protected. Don't drop them from a day to fit in more work unless John says so.
 - The fitness plan lives in `sixties-strong`. Read it, never copy it here. That repo is the single source of truth for gym, ride, pickleball, and yoga days.
 

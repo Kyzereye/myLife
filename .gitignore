@@ -5,5 +5,4 @@ node_modules/
 
 # Nested repos (each has its own GitHub repo)
 /journal/
-/kyzereye-books/
 /sixties-strong/

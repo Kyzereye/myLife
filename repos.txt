@@ -3,10 +3,11 @@
 myLife | git@github.com:Kyzereye/myLife.git
 myLife/journal | git@github.com:Kyzereye/journal.git
 myLife/sixties-strong | git@github.com:Kyzereye/sixties-strong.git
-myLife/kyzereye-books | git@github.com:Kyzereye/kyzereye-books.git
-puzzle-books | git@github.com:Kyzereye/puzzle-books.git
+myBusiness | git@github.com:Kyzereye/myBusiness.git
+myBusiness/KyzereyePublishing/books | git@github.com:Kyzereye/kyzereye-books.git
+myBusiness/KyzereyePublishing/puzzle-books | git@github.com:Kyzereye/puzzle-books.git
 motivational-inspirations | git@github.com:Kyzereye/motivational-inspirations.git
-pokersheets | git@github.com:Kyzereye/pokersheets.git
-pokerleaguesHQ | git@github.com:Kyzereye/pokerleaguesHQ.git
+myBusiness/KCW/pokersheets | git@github.com:Kyzereye/pokersheets.git
+myBusiness/KCW/pokerleaguesHQ | git@github.com:Kyzereye/pokerleaguesHQ.git
 # To add after inventory on the work computer:
 # code-works repos | ...

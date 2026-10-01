@@ -30,7 +30,7 @@ Write or replace the section for this date in `schedule/weeks/<ISO week>.md`. Cr
 
 - [ ] Statements (AM)
 - [ ] **Code Works** (<time>): <one concrete goal>
-- [ ] **IM-FB agent** (<time>): <one next action>
+- [ ] **inspire agent** (<time>): <one next action>
 - [ ] **Moving Forward** (<time>): <one next action, or "skipped: ride day">
 - [ ] **Fitness**: <session, e.g. "Gym A, see gym-card.md" or "Mountain bike, carb breakfast 1.5–2 h before">
 - [ ] **Evening**: <music / dealing / Avs vs XXX 7:00 on TV: yoga flow 1 + ideas.md>

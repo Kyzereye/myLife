@@ -34,9 +34,9 @@ This repo is the hub for everything I'm working on. It holds the plan, not the w
 
 ## Repos inside this folder
 
-`journal/`, `kyzereye-books/`, and `sixties-strong/` live inside this folder, but each is **its own GitHub repo**. myLife's `.gitignore` skips them, so commit and push each one from inside its own folder. In VS Code, open `~/projects/myLife` and the Source Control panel lists each repo separately.
+`journal/` and `sixties-strong/` live inside this folder, but each is **its own GitHub repo**. myLife's `.gitignore` skips them, so commit and push each one from inside its own folder. In VS Code, open `~/projects/myLife` and the Source Control panel lists each repo separately.
 
-Business and code repos (`motivational-inspirations`, `puzzle-books`, poker apps, Code Works) live in `~/projects/`.
+Business work lives next door in `~/projects/myBusiness` (KyzerEye LLC: KCW code projects and Kyzereye Publishing books). myLife plans it; myBusiness holds it. The inspire agent repo is `~/projects/motivational-inspirations`.
 
 ## Setting up on another computer
 
