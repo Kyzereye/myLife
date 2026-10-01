@@ -17,14 +17,15 @@ Every repo is cloned into `~/projects/<name>` on every computer that needs it, s
 | `books` | yes (new) | `Kyzereye/books` | LoA & Bible, statements-of-intent |
 | `myLife` | yes (new) | `Kyzereye/myLife` | This hub |
 | `keep-moving-forward/books` | yes | `Kyzereye/kmf-books` | |
-| `keep-moving-forward/motivational-inspirations` | yes | `Kyzereye/motivational-inspirations` | |
+| `motivational-inspirations` | yes | `Kyzereye/motivational-inspirations` | IM-FB agent (finish slot A). Active work is on another computer. |
+| `keep-moving-forward/motivational-inspirations` | yes | same as above | **Older duplicate clone.** Clean, 3 behind, no unique work. Safe to remove with approval. |
 | `pokersheets` | yes | `Kyzereye/pokersheets` | |
 | `pokerleaguesHQ` | yes | `Kyzereye/pokerleaguesHQ` | |
 | `poker_signup/frontend` | yes | none yet | 29 uncommitted files |
 | `100waysmotivate` | no | — | Overlaps `kmf-books/100waystaglines`. Compare before deciding. |
 | `digital-products` | no | — | Parked |
 | `KyzereyeProductions` | no | — | Parked |
-| `IM-FB-post` | no | — | **Stale copy.** Real work is on another computer. |
+| `IM-FB-post` | no | — | **Stale copy.** Superseded by `motivational-inspirations`. |
 | `keep-moving-forward/IM-FB-post` | no | — | **Stale copy.** Same as above. |
 | `sentences`, `youtubeDownload`, `stocks`, `positivityGraditude.py` | no | — | Old or small. Decide later. |
 

@@ -1,9 +1,8 @@
 # IM-FB Agent
 
 **Type:** Finish slot A (mid-day, best hours)
-**Repo:** Active work is on another computer. Add it to `repos.txt` once it's on GitHub.
-**Stale copies on the backup computer:** `~/projects/IM-FB-post` and `~/projects/keep-moving-forward/IM-FB-post` (old `autoPost.py` and `config.js`). Leave them alone until the real repo is on GitHub, then decide whether to remove them.
-**Related:** `keep-moving-forward/motivational-inspirations` (image creation + auto-post, "instagram posts are now working" as of 2026-07-03)
+**Repo:** `motivational-inspirations` (`~/projects/motivational-inspirations`, `Kyzereye/motivational-inspirations`). Active work is on another computer. Pull before working on it here.
+**Old copies on the backup computer:** `~/projects/IM-FB-post` and `~/projects/keep-moving-forward/IM-FB-post` (old `autoPost.py` and `config.js`), plus an older clone at `~/projects/keep-moving-forward/motivational-inspirations` (clean, 3 commits behind, no unique work). Remove these only with approval.
 
 ## What it does
 
@@ -19,6 +18,6 @@ The agent posts 4 memes a day to both Facebook and Instagram with **no hands-on 
 
 ## Next 3 actions
 
-1. Push the current agent code to a private GitHub repo and add it to `repos.txt`.
+1. On the computer where it's being built: push the latest work and fill in "Current status" above.
 2. Write down what's left before it can run unattended.
 3. Start the 14-day clock.
