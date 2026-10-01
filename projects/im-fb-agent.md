@@ -1,8 +1,14 @@
 # IM-FB Agent
 
 **Type:** Finish slot A (mid-day, best hours)
-**Repo:** `motivational-inspirations` (`~/projects/motivational-inspirations`, `Kyzereye/motivational-inspirations`). Active work is on another computer. Pull before working on it here.
-**Old copies on the backup computer:** `~/projects/IM-FB-post` and `~/projects/keep-moving-forward/IM-FB-post` (old `autoPost.py` and `config.js`), plus an older clone at `~/projects/keep-moving-forward/motivational-inspirations` (clean, 3 commits behind, no unique work). Remove these only with approval.
+**Repo:** `motivational-inspirations` (`~/projects/motivational-inspirations`, `Kyzereye/motivational-inspirations`). Active work is on the main computer. Pull before working on it here.
+**One name everywhere:** "IM-FB-post" was only the folder name on the main computer, not a separate project. The folder is being renamed to `motivational-inspirations` everywhere.
+
+## Cleanup still to do
+
+- [ ] **Main computer:** push any uncommitted work, then rename `~/Projects/IM-FB-post` to `motivational-inspirations` (in the same folder as the other repos). Update the cron job (`crontab -e`) for the script path and the `post.log` path, and the 3 `IM-FB-post` paths in `README.md`. Commit, push, and confirm the next scheduled post runs.
+- [ ] **Backup computer:** delete `~/projects/keep-moving-forward/IM-FB-post` (unused 2023 stub) and `~/projects/keep-moving-forward/motivational-inspirations` (older clone, no unique work). `~/projects/IM-FB-post` was deleted 2026-10-01.
+- [ ] Check Meta's app dashboard and revoke the old 2023 Facebook token from the stub's `config.js` if it's still listed.
 
 ## What it does
 

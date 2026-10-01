@@ -41,4 +41,3 @@ cd myLife
 ```
 
 The sync script lists any repo from `repos.txt` that isn't cloned yet on that computer.
-# myLife

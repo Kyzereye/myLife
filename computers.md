@@ -5,7 +5,7 @@ Every repo is cloned into `~/projects/<name>` on every computer that needs it, s
 | Computer | Role | Status |
 |---|---|---|
 | **Work** | Kyzereye Code Works client projects | Not inventoried yet |
-| **Main** | Primary personal computer. The IM-FB agent is being built on a non-backup computer. | Not inventoried yet |
+| **Main** | Primary personal computer. The IM-FB agent (`motivational-inspirations`) is built and run here, currently in a folder named `IM-FB-post` that needs renaming. | Not inventoried yet |
 | **Backup** | This inventory was done here on 2026-10-01 | Inventoried, see below |
 
 ## Backup computer (inventoried 2026-10-01)
@@ -18,15 +18,14 @@ Every repo is cloned into `~/projects/<name>` on every computer that needs it, s
 | `myLife` | yes (new) | `Kyzereye/myLife` | This hub |
 | `keep-moving-forward/books` | yes | `Kyzereye/kmf-books` | |
 | `motivational-inspirations` | yes | `Kyzereye/motivational-inspirations` | IM-FB agent (finish slot A). Active work is on another computer. |
-| `keep-moving-forward/motivational-inspirations` | yes | same as above | **Older duplicate clone.** Clean, 3 behind, no unique work. Safe to remove with approval. |
+| `keep-moving-forward/motivational-inspirations` | yes | same as above | **Older duplicate clone. Delete.** Checked 2026-10-01: nothing uncommitted, unpushed, or stashed. |
 | `pokersheets` | yes | `Kyzereye/pokersheets` | |
 | `pokerleaguesHQ` | yes | `Kyzereye/pokerleaguesHQ` | |
 | `poker_signup/frontend` | yes | none yet | 29 uncommitted files |
 | `100waysmotivate` | no | — | Overlaps `kmf-books/100waystaglines`. Compare before deciding. |
 | `digital-products` | no | — | Parked |
 | `KyzereyeProductions` | no | — | Parked |
-| `IM-FB-post` | no | — | **Stale copy.** Superseded by `motivational-inspirations`. |
-| `keep-moving-forward/IM-FB-post` | no | — | **Stale copy.** Same as above. |
+| `keep-moving-forward/IM-FB-post` | no | — | **Unused 2023 stub. Delete.** (`~/projects/IM-FB-post` was the same stub and was deleted 2026-10-01.) |
 | `sentences`, `youtubeDownload`, `stocks`, `positivityGraditude.py` | no | — | Old or small. Decide later. |
 
 ### Media (not for git)
