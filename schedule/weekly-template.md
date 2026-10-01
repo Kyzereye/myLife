@@ -19,7 +19,7 @@ Every day starts as the **base day**. Then each **modifier** that's true for tha
 
 | When | Where to look | What changes |
 |---|---|---|
-| **Gym day** (every 3rd day, A/B) | `../fitness/plan/training.md`, `../fitness/logs/workouts.csv` | Add about 1 hour of gym in the morning before Code Works or in the late afternoon. Nothing else is cut. |
+| **Gym day** (every 3rd day, A/B) | `../sixties-strong/plan/training.md`, `../sixties-strong/logs/workouts.csv` | Add about 1 hour of gym in the morning before Code Works or in the late afternoon. Nothing else is cut. |
 | **Mountain bike day** (one weekday a week, the day before a gym day) | fitness plan | The ride takes a few hours and can eat into the day. **Finish slot A stays protected.** Code Works gets whatever time is left. Skip the book block. Eat the pre-ride breakfast. |
 | **Pickleball, road ride, walk, or yoga** | fitness plan | Goes in the late-afternoon fitness block. |
 | **Dealing poker** (Mon + Wed evenings, sometimes extra) | `fixed-events.md` | The evening is gone. Read statements before leaving. Skip music. Journal only if something needs writing down. |

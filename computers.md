@@ -1,6 +1,6 @@
 # Computers
 
-Every repo is cloned into `~/projects/<name>` on every computer that needs it, so relative links between repos (like `../fitness`) work everywhere.
+Every repo is cloned into `~/projects/<name>` on every computer that needs it, so relative links between repos (like `../sixties-strong`) work everywhere.
 
 | Computer | Role | Status |
 |---|---|---|
@@ -13,8 +13,8 @@ Every repo is cloned into `~/projects/<name>` on every computer that needs it, s
 | Folder | Git | GitHub | Notes |
 |---|---|---|---|
 | `journal` | yes | `Kyzereye/journal` | Includes the Moving Forward book |
-| `fitness` | yes (new) | `Kyzereye/fitness` | |
-| `books` | yes (new) | `Kyzereye/books` | LoA & Bible, statements-of-intent |
+| `sixties-strong` | yes (new) | `Kyzereye/sixties-strong` | |
+| `kyzereye-books` | yes (new) | `Kyzereye/kyzereye-books` | LoA & Bible, statements-of-intent |
 | `myLife` | yes (new) | `Kyzereye/myLife` | This hub |
 | `keep-moving-forward/books` | yes | `Kyzereye/kmf-books` | |
 | `motivational-inspirations` | yes | `Kyzereye/motivational-inspirations` | IM-FB agent (finish slot A). Active work is on another computer. |

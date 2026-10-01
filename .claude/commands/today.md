@@ -11,10 +11,10 @@ Build the plan for $ARGUMENTS (if empty, use today's date). Work out the weekday
 - `schedule/fixed-events.md`: dealing nights, extra events, and Avs games on this date (note TV, In person, or Skip)
 - `schedule/weeks/<ISO week>.md` if it exists (protected hobby slots placed by `/week-review`, unchecked items from earlier days)
 - `projects/*.md` for each active project's "Next 3 actions"
-- Fitness, from `../fitness`:
+- Fitness, from `../sixties-strong`:
   - `logs/workouts.csv`: the last logged gym date and session. The next gym day is 3 days later, with the other letter (A↔B). If no sessions are logged yet, use the calendar in `plan/training.md` (gym every 3 days starting Fri 2026-10-02 with A).
   - If the date isn't a gym day, check whether it's the day before a gym day and a weekday. If so, it's a candidate **mountain bike day**. Check `logs/activity.csv`, and if no mountain bike ride is logged yet this week (Mon–Sun), make it the ride day. Otherwise follow the off-day suggestions in `plan/training.md` (pickleball, road ride, walk, yoga), keeping yoga at about 2 a week.
-  - If `../fitness` isn't on this computer, say so and skip the fitness detail.
+  - If `../sixties-strong` isn't on this computer, say so and skip the fitness detail.
 - The last commit date in each repo from `repos.txt` that exists locally (`git -C ~/projects/<dir> log -1 --format=%cd --date=short`). Use it only to flag a finish-slot project with no commits in 3+ days.
 
 ## 2. Build the day

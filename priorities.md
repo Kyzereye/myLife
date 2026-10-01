@@ -26,7 +26,7 @@
 - **Drawing Dead and Getting There:** a novel in the style of *The Color of Money* with a poker backstory.
 - **Hero's journey with law of attraction:** for teens and early twenties. The hero learns the principles along the way and ends supercharged for the life ahead.
 - **Keep Moving Forward / 100 Ways to Motivate books:** `100waysmotivate`, `keep-moving-forward/books`
-- **Statements of Intent book:** `books/statements-of-intent`
+- **Statements of Intent book:** `kyzereye-books/statements-of-intent`
 - **Poker apps:** `pokersheets`, `pokerleaguesHQ`, `poker_signup`
 - **Digital products / Kyzereye Productions:** `digital-products`, `KyzereyeProductions`
 

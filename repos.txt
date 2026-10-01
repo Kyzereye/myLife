@@ -2,8 +2,8 @@
 # scripts/sync-status.sh reads this file. Lines starting with # are ignored.
 myLife | git@github.com:Kyzereye/myLife.git
 journal | git@github.com:Kyzereye/journal.git
-fitness | git@github.com:Kyzereye/fitness.git
-books | git@github.com:Kyzereye/books.git
+sixties-strong | git@github.com:Kyzereye/sixties-strong.git
+kyzereye-books | git@github.com:Kyzereye/kyzereye-books.git
 keep-moving-forward/books | git@github.com:Kyzereye/kmf-books.git
 motivational-inspirations | git@github.com:Kyzereye/motivational-inspirations.git
 pokersheets | git@github.com:Kyzereye/pokersheets.git
