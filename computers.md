@@ -23,7 +23,7 @@ Every repo is cloned into the same place on every computer, as listed in `repos.
 | `keep-moving-forward/motivational-inspirations` | yes | same as above | **Older duplicate clone. Delete.** Checked 2026-10-01: nothing uncommitted, unpushed, or stashed. |
 | `myBusiness/KCW/pokersheets` | yes | `Kyzereye/pokersheets` | |
 | `myBusiness/KCW/pokerleaguesHQ` | yes | `Kyzereye/pokerleaguesHQ` | |
-| `myBusiness/KCW/poker_signup` | yes | `Kyzereye/poker_signup` (branch `master`) | Fresh clone 2026-10-01. `python/` and `sql/` are local only (gitignored on purpose). `backend/.env` needs JWT and SMTP values. Old Jan 2025 copy in `archive/poker_signup-2025-01`. |
+| `myBusiness/KCW/poker_signup` | yes | `Kyzereye/poker_signup` (branch `master`) | Fresh clone 2026-10-01. `python/` and `sql/` added to git 2026-10-01. `backend/.env` needs JWT and SMTP values. Old Jan 2025 copy in `archive/poker_signup-2025-01`. |
 | `100waysmotivate` | no | — | **Retired.** Older (July 1) snapshot of kmf-books, nothing unique. Delete. |
 | `digital-products` | no | — | Parked |
 | `archive/KyzereyeProductions` | no | — | Archived 2026-10-01. Prototype of the inspire agent. |
