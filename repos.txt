@@ -9,5 +9,6 @@ myBusiness/KyzereyePublishing/puzzle-books | git@github.com:Kyzereye/puzzle-book
 motivational-inspirations | git@github.com:Kyzereye/motivational-inspirations.git
 myBusiness/KCW/pokersheets | git@github.com:Kyzereye/pokersheets.git
 myBusiness/KCW/pokerleaguesHQ | git@github.com:Kyzereye/pokerleaguesHQ.git
+myBusiness/KCW/poker_signup | git@github.com:Kyzereye/poker_signup.git
 # To add after inventory on the work computer:
 # code-works repos | ...
