@@ -15,7 +15,7 @@ Every repo is cloned into the same place on every computer, as listed in `repos.
 | `myLife/journal` | yes | `Kyzereye/journal` | Moving Forward book moved out to kyzereye-books (2026-10-01) |
 | `myLife/sixties-strong` | yes (new) | `Kyzereye/sixties-strong` | |
 | `myBusiness/KyzereyePublishing/books` | yes (new) | `Kyzereye/kyzereye-books` | All books, one folder each. kmf-books merged in, Moving Forward moved in from journal (2026-10-01). Moved from `myLife/kyzereye-books` to myBusiness 2026-10-01. |
-| `myBusiness/KyzereyePublishing/puzzle-books` | yes (new) | `Kyzereye/puzzle-books` (not created on GitHub yet) | Word-search puzzle book generator. Moved from `~/Documents/books` 2026-10-01. |
+| `myBusiness/KyzereyePublishing/puzzle-books` | yes (new) | `Kyzereye/puzzle-books` | Word-search puzzle book generator. Moved from `~/Documents/books` 2026-10-01. |
 | `myLife` | yes (new) | `Kyzereye/myLife` | This hub |
 | `myBusiness` | yes (new) | `Kyzereye/myBusiness` | KyzerEye LLC: KCW + Kyzereye Publishing. Created 2026-10-01. |
 | `keep-moving-forward/books` | yes | `Kyzereye/kmf-books` | **Retired.** Merged into `books/kmf`. Delete the folder and archive the GitHub repo. |
