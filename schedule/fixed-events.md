@@ -14,7 +14,9 @@ Add a row whenever something comes up (an extra dealing night, a trip, a client 
 
 | Date | What | Effect on the day |
 |---|---|---|
-|  |  |  |
+| 2026-10-08 – 2026-10-11 | Trip: boys weekend, Nashville ([details](../activities/travel/2026-10-nashville.md)) | Away. No regular day plan, no dealing. |
+| 2026-11-17 – 2026-12-04 | Trip: Australia dive trip ([details](../activities/travel/2026-11-australia.md)). May extend for Fiji. | Away. No regular day plan, no dealing. |
+| 2027-02-03 – 2027-02-21 | Trip: Chuuk and Pohnpei dive trip ([details](../activities/travel/2027-02-chuuk-pohnpei.md)) | Away. No regular day plan, no dealing. |
 
 ## Colorado Avalanche 2026–27 regular season
 

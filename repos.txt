@@ -1,8 +1,8 @@
 # Every project repo. Format: local-folder-under-~/projects | GitHub SSH URL
 # scripts/sync-status.sh reads this file. Lines starting with # are ignored.
 myLife | git@github.com:Kyzereye/myLife.git
-myLife/journal | git@github.com:Kyzereye/journal.git
-myLife/sixties-strong | git@github.com:Kyzereye/sixties-strong.git
+myLife/activities/journal | git@github.com:Kyzereye/journal.git
+myLife/activities/sixties-strong | git@github.com:Kyzereye/sixties-strong.git
 myBusiness | git@github.com:Kyzereye/myBusiness.git
 myBusiness/KyzereyePublishing/books | git@github.com:Kyzereye/kyzereye-books.git
 myBusiness/KyzereyePublishing/puzzle-books | git@github.com:Kyzereye/puzzle-books.git

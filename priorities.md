@@ -7,8 +7,8 @@
 | Activity | Daily target | File |
 |---|---|---|
 | Kyzereye Code Works | Morning block. Find clients and do client work. **Top priority.** | [myBusiness/KCW](../myBusiness/KCW/README.md) |
-| Fitness | Whatever the fitness plan says for today | [projects/fitness.md](projects/fitness.md) |
-| Mental health | Read statements twice a day ([ongoing.md](journal/moving-forward/ongoing.md)). Journal in the evening when something matters. | `journal` repo |
+| Fitness | Whatever the fitness plan says for today | [activities/sixties-strong](activities/sixties-strong/README.md) |
+| Mental health | Read statements twice a day ([ongoing.md](activities/journal/moving-forward/ongoing.md)). Journal in the evening when something matters. | `journal` repo |
 
 ## Finish slots (max 2)
 
@@ -33,7 +33,4 @@
 
 ## Hobbies and friends (protected weekly time)
 
-- Music (banjo, guitar, sax): 30 minutes on most non-dealing, non-game evenings
-- Poker (playing, not dealing): one session a week
-- Friends / social: one set time a week
-- Yard, garden, photography: one weekend block, plus a weekday afternoon when the weather is good
+The list and how often each one happens are in [activities/hobbies/README.md](activities/hobbies/README.md).

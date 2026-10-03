@@ -4,5 +4,5 @@ __pycache__/
 node_modules/
 
 # Nested repos (each has its own GitHub repo)
-/journal/
-/sixties-strong/
+/activities/journal/
+/activities/sixties-strong/

@@ -8,7 +8,7 @@ This repo is the hub for everything I'm working on. It holds the plan, not the w
 2. **Every finish project has a definition of done.** It's written in that project's file in [projects/](projects/). When the definition is met, the project is finished, even if it could be polished more.
 3. **Main activities are not projects.** Kyzereye Code Works, fitness, and mental health (statements, journaling) get time every day. They don't have a finish line, so they don't take a finish slot.
 4. **New ideas go in [ideas.md](ideas.md).** Write one line, then go back to the current block. Ideas are reviewed on Fridays.
-5. **Hobbies and friends are scheduled.** Music, poker, friends, and yard/garden/photography get protected time each week, or they don't happen.
+5. **Hobbies and friends are scheduled.** Music, poker, friends, and gardening/yard/photography get protected time each week, or they don't happen. The list is in [activities/hobbies/README.md](activities/hobbies/README.md).
 6. **Pull at the start, push at the end.** Every session on any computer starts with `git pull` and ends with commit + push. Run `scripts/sync-status.sh` to check every repo at once.
 
 ## Daily and weekly rhythm
@@ -25,7 +25,8 @@ This repo is the hub for everything I'm working on. It holds the plan, not the w
 | [ideas.md](ideas.md) | Inbox for new ideas so they don't derail the day |
 | [computers.md](computers.md) | What lives on the work, main, and backup computers |
 | [repos.txt](repos.txt) | Every project repo, used by the sync script |
-| [projects/](projects/) | One file per active project: status, definition of done, next actions |
+| [projects/](projects/) | One file per finish project: status, definition of done, next actions |
+| [activities/](activities/) | Ongoing parts of life: fitness (`sixties-strong`), `journal`, hobbies, travel, events |
 | [schedule/weekly-template.md](schedule/weekly-template.md) | Base day and modifiers |
 | [schedule/fixed-events.md](schedule/fixed-events.md) | Dealing nights, Avalanche schedule, one-off events |
 | [schedule/weeks/](schedule/weeks/) | One file per week with each day's plan and checkboxes |
@@ -34,7 +35,7 @@ This repo is the hub for everything I'm working on. It holds the plan, not the w
 
 ## Repos inside this folder
 
-`journal/` and `sixties-strong/` live inside this folder, but each is **its own GitHub repo**. myLife's `.gitignore` skips them, so commit and push each one from inside its own folder. In VS Code, open `~/projects/myLife` and the Source Control panel lists each repo separately.
+`activities/journal/` and `activities/sixties-strong/` live inside this folder, but each is **its own GitHub repo**. myLife's `.gitignore` skips them, so commit and push each one from inside its own folder. In VS Code, open `~/projects/myLife` and the Source Control panel lists each repo separately.
 
 Business work lives next door in `~/projects/myBusiness` (KyzerEye LLC: KCW code projects and Kyzereye Publishing books). myLife plans it; myBusiness holds it. The inspire agent repo is `~/projects/motivational-inspirations`.
 

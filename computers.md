@@ -1,6 +1,8 @@
 # Computers
 
-Every repo is cloned into the same place on every computer, as listed in `repos.txt`. Personal-life repos (`journal`, `sixties-strong`) live **inside** `~/projects/myLife/`, but each is still its own GitHub repo, and myLife's `.gitignore` skips them. Business repos live inside `~/projects/myBusiness/` (KCW and KyzereyePublishing), with the same nested-repo pattern. Other repos live in `~/projects/`. Run `scripts/clone-all.sh` on a new computer to set this up.
+Every repo is cloned into the same place on every computer, as listed in `repos.txt`. Personal-life repos (`journal`, `sixties-strong`) live **inside** `~/projects/myLife/activities/`, but each is still its own GitHub repo, and myLife's `.gitignore` skips them. Business repos live inside `~/projects/myBusiness/` (KCW and KyzereyePublishing), with the same nested-repo pattern. Other repos live in `~/projects/`. Run `scripts/clone-all.sh` on a new computer to set this up.
+
+**Moved 2026-10-02:** `journal` and `sixties-strong` moved from `myLife/` to `myLife/activities/`. On the main and work computers, after `git pull` in myLife, run `mkdir -p ~/projects/myLife/activities && mv ~/projects/myLife/journal ~/projects/myLife/sixties-strong ~/projects/myLife/activities/`.
 
 | Computer | Role | Status |
 |---|---|---|
@@ -12,8 +14,8 @@ Every repo is cloned into the same place on every computer, as listed in `repos.
 
 | Folder | Git | GitHub | Notes |
 |---|---|---|---|
-| `myLife/journal` | yes | `Kyzereye/journal` | Moving Forward book moved out to kyzereye-books (2026-10-01) |
-| `myLife/sixties-strong` | yes (new) | `Kyzereye/sixties-strong` | |
+| `myLife/activities/journal` | yes | `Kyzereye/journal` | Moving Forward book moved out to kyzereye-books (2026-10-01) |
+| `myLife/activities/sixties-strong` | yes (new) | `Kyzereye/sixties-strong` | |
 | `myBusiness/KyzereyePublishing/books` | yes (new) | `Kyzereye/kyzereye-books` | All books, one folder each. kmf-books merged in, Moving Forward moved in from journal (2026-10-01). Moved from `myLife/kyzereye-books` to myBusiness 2026-10-01. |
 | `myBusiness/KyzereyePublishing/puzzle-books` | yes (new) | `Kyzereye/puzzle-books` | Word-search puzzle book generator. Moved from `~/Documents/books` 2026-10-01. |
 | `myLife` | yes (new) | `Kyzereye/myLife` | This hub |

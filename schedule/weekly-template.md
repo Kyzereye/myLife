@@ -19,7 +19,7 @@ Every day starts as the **base day**. Then each **modifier** that's true for tha
 
 | When | Where to look | What changes |
 |---|---|---|
-| **Gym day** (every 3rd day, A/B) | `sixties-strong/plan/training.md`, `sixties-strong/logs/workouts.csv` | Add about 1 hour of gym in the morning before Code Works or in the late afternoon. Nothing else is cut. |
+| **Gym day** (every 3rd day, A/B) | `activities/sixties-strong/plan/training.md`, `activities/sixties-strong/logs/workouts.csv` | Add about 1 hour of gym in the morning before Code Works or in the late afternoon. Nothing else is cut. |
 | **Mountain bike day** (one weekday a week, the day before a gym day) | fitness plan | The ride takes a few hours and can eat into the day. **Finish slot A stays protected.** Code Works gets whatever time is left. Skip the book block. Eat the pre-ride breakfast. |
 | **Pickleball, road ride, walk, or yoga** | fitness plan | Goes in the late-afternoon fitness block. |
 | **Dealing poker** (Mon + Wed evenings, sometimes extra) | `fixed-events.md` | The evening is gone. Read statements before leaving. Skip music. Journal only if something needs writing down. |
@@ -30,14 +30,7 @@ Every day starts as the **base day**. Then each **modifier** that's true for tha
 
 ## Protected hobby and friend time each week
 
-`/week-review` places these into next week's file on specific days so they get done.
-
-| Hobby | How much | Good days |
-|---|---|---|
-| Music (banjo, guitar, sax) | 30 min on most evenings | Any evening that isn't a dealing or in-person game night |
-| Poker (playing) | One session | Weekend, or a free weeknight |
-| Friends / social | One set time | Any day. An Avs game with friends counts. |
-| Yard, garden, photography | One weekend block, plus a weekday afternoon when the weather is good | Saturday or Sunday |
+`/week-review` places these into next week's file on specific days so they get done. The list, how often, and good days are in [activities/hobbies/README.md](../activities/hobbies/README.md).
 
 ## When a finish slot opens
 
